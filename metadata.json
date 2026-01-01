@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VoxShift AI",
+  "description": "A real-time voice transformation and conversational app powered by Gemini 2.5 Native Audio. Experience low-latency, human-like voice interactions with multiple AI personas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
